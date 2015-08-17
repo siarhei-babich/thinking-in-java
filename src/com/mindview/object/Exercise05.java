@@ -1,5 +1,5 @@
 package com.mindview.object;
-public class Exercise5 {
+public class Exercise05 {
 
 	public static void main(String[] args) {
 

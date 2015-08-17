@@ -1,5 +1,5 @@
 package com.mindview.object;
-public class Exercise6 {
+public class Exercise06 {
 
 	public static void main(String[] args) {
 		System.out.println(Integer.valueOf(storage("")));

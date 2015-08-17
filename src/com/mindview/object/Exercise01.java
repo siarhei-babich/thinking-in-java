@@ -1,6 +1,6 @@
 package com.mindview.object;
 
-public class Exercise1 {
+public class Exercise01 {
 	
 	static int i;
 	static char c;

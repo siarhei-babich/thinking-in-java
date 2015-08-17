@@ -1,5 +1,5 @@
 package com.mindview.object;
-public class Exercise7 {
+public class Exercise07 {
 
 	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
